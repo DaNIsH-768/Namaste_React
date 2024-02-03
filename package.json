@@ -1,0 +1,22 @@
+{
+  "name": "namaste_react",
+  "version": "1.0.0",
+  "description": "Namste React by Akshay Saini",
+  "main": "index.html",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DaNIsH-768/Namaste_React.git"
+  },
+  "keywords": [
+    "React"
+  ],
+  "author": "Danish Raina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DaNIsH-768/Namaste_React/issues"
+  },
+  "homepage": "https://github.com/DaNIsH-768/Namaste_React#readme"
+}
