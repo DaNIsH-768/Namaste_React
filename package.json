@@ -4,6 +4,7 @@
   "description": "Namste React by Akshay Saini",
   "main": "app.js",
   "scripts": {
+    "start": "parcel index.html",
     "test": "jest"
   },
   "repository": {
